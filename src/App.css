@@ -161,6 +161,16 @@ h2 {
   top: 0;
   left: 0;
   right: 0;
+  height: 4rem;
+}
+.nav-img-logo {
+  width: 150px; /* Adjust the width as needed */
+  height: auto; /* Keeps the aspect ratio intact */
+  display: flex; /* Ensures it's a block element */
+  margin: 0 auto; /* Centers the image horizontally */
+  padding: 10px; /* Adds some padding around the image */
+  border-radius: 8px; /* Rounds the corners, optional */
+  transition: transform 0.3s ease; /* Smooth hover effect */
 }
 .navbar--items > ul {
   list-style: none;
