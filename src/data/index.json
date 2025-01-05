@@ -29,24 +29,42 @@
     {
       "id": "1",
       "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
+      "title": "React-Admin-page",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "gitlink": "View In Github",
-      "livelink": "https://weatherappff.netlify.app/"
+      "gitlink": "https://github.com/vishnuu5/React-Admin-page",
+      "livelink": "https://react-admin-page-puce.vercel.app/"
     },
     {
       "id": "2",
       "src": "./img/placeholder-image-1.png",
-      "title": "App Dashboard",
+      "title": "Music_Player",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "gitlink": "View In Github"
+      "gitlink": "https://github.com/vishnuu5/Music_Player",
+      "livelink": "https://musicplayer344.netlify.app/"
     },
     {
       "id": "3",
       "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
+      "title": "Landing-page",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "gitlink": "View In Github"
+      "gitlink": "https://github.com/vishnuu5/Landing-page",
+      "livelink": "https://responsive-landing-pagess.netlify.app/"
+    },
+    {
+      "id": "4",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Calculator APP",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "gitlink": "https://github.com/vishnuu5/calculator-",
+      "livelink": "https://calculator-five-ochre.vercel.app/"
+    },
+    {
+      "id": "5",
+      "src": "./img/placeholder-image-2.png",
+      "title": "MERN BLOG APP",
+      "description": "Working On Progress.......",
+      "gitlink": "",
+      "livelink": ""
     }
   ]
 }
